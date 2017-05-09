@@ -1,0 +1,34 @@
+﻿<Window x:Class="SurfacePlotDemo.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:h="clr-namespace:HelixToolkit.Wpf;assembly=HelixToolkit.Wpf" xmlns:local="clr-namespace:SurfacePlotDemo" Title="Surface plot demo" Height="468" Width="626.25">
+
+
+    <h:HelixViewport3D ZoomExtentsWhenLoaded="True" TitleBackground="Black" Background="#FF746868"  Margin="0,0,-8,0">
+        
+        <h:HelixViewport3D.BorderBrush>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="#FFA26A6A" Offset="1"/>
+            </LinearGradientBrush>
+        </h:HelixViewport3D.BorderBrush>
+        <h:HelixViewport3D.Camera>
+            <!-- HelixViewport3D.ZoomExtentsWhenLoaded will figure out the position of the Camera -->
+            <PerspectiveCamera LookDirection="0,1,5" UpDirection="0,0,1" FieldOfView="1"/>
+        </h:HelixViewport3D.Camera>
+        <!--<h:HelixViewport3D.LayoutTransform>
+                <ScaleTransform ScaleX="2" ScaleY="0.1" CenterX="0" CenterY="0"/>
+            </h:HelixViewport3D.LayoutTransform>-->
+        <!-- Lights -->
+        <!--<ModelVisual3D Content="{Binding Lights}"/>-->
+        <ModelVisual3D Content="{Binding Lights}">
+            <ModelVisual3D.Transform>
+                <ScaleTransform3D ScaleX="4" ScaleY="0.5" ScaleZ="1" CenterX="0" CenterY="0" CenterZ="0"/>
+            </ModelVisual3D.Transform>
+        </ModelVisual3D>
+        <!-- The plot visual (surface, axes and labels) -->
+        <local:SurfacePlotVisual3D Points="{Binding Data}" ColorValues="{Binding ColorValues}" SurfaceBrush="{Binding SurfaceBrush}"/>
+
+    </h:HelixViewport3D>
+
+
+</Window>

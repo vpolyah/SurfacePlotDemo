@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access">
+  <Class Name="SurfacePlotDemo.Global_variable" Collapsed="true">
+    <Position X="3.25" Y="1.5" Width="2.25" />
+    <Members>
+      <Field Name="a" Hidden="true" />
+      <Field Name="ti" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAYEBAAAAAAAIAgAFAQQEAAAAAAgAQhoKACgDAAAAEA=</HashCode>
+      <FileName>Global.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurfacePlotDemo.MainViewModel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>MAgBAAIyAAAAAkAAAAAQAgIAgAABABAACAACAEgAAAA=</HashCode>
+      <FileName>MainViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurfacePlotDemo.Individual" Collapsed="true">
+    <Position X="8" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABCAEAAAAgAAAAAAAAAAAAAAEAAAQAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurfacePlotDemo.Cluster" Collapsed="true">
+    <Position X="10.25" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurfacePlotDemo.FormPopulation" Collapsed="true">
+    <Position X="5.75" Y="2.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurfacePlotDemo.CreatePopulation" Collapsed="true">
+    <Position X="3.5" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAABACAAAgAAAAAAAAAAAAQAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurfacePlotDemo.EvolutionaryGeneticAlg" Collapsed="true">
+    <Position X="8.75" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAAAEAAAAEAAAAAAAABAAAAAAAAAAAAAQAgAAAAgAAE=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurfacePlotDemo.FunctionDeal" Collapsed="true">
+    <Position X="11.25" Y="2.25" Width="1.75" />
+    <NestedTypes>
+      <Class Name="SurfacePlotDemo.FunctionDeal.CompIndivMinToMax&lt;M&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Program.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="SurfacePlotDemo.FunctionDeal.CompIndivMaxToMin&lt;M&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Program.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QAoAEAAAAAAAAgAAAEAAAAIAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurfacePlotDemo.Student_tTest" Collapsed="true">
+    <Position X="5.75" Y="3" Width="2" />
+    <NestedTypes>
+      <Class Name="SurfacePlotDemo.Student_tTest.CompRadiusMinToMax&lt;M&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Program.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="SurfacePlotDemo.Student_tTest.CompRadiusMaxToMin&lt;M&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Program.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAABAAAAAAAAAAAEAABAAAAACAAAgBAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurfacePlotDemo.MethodRun" Collapsed="true">
+    <Position X="8.75" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWIIACAAAAAAE=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

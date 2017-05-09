@@ -1,0 +1,195 @@
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\SurfacePlotDemo.exe.config
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\SurfacePlotDemo.exe
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\SurfacePlotDemo.pdb
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.dll
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.pdb
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.xml
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.csprojResolveAssemblyReference.cache
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\App.g.cs
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo_MarkupCompile.cache
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo_MarkupCompile.lref
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\MainWindow.baml
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.g.resources
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.Properties.Resources.resources
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.csproj.GenerateResource.Cache
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.exe
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.pdb
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\Window1.baml
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\Window1.g.cs
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\Прога по диссертации\Плоскость helix\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+G:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\SurfacePlotDemo.exe.config
+G:\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.exe
+G:\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.pdb
+G:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\SurfacePlotDemo.exe
+G:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\SurfacePlotDemo.pdb
+G:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.dll
+G:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.Wpf.dll
+G:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.AvalonDock.dll
+G:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+G:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+G:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+G:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.DataGrid.dll
+G:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.Toolkit.dll
+G:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.pdb
+G:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.xml
+G:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.Wpf.pdb
+G:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.Wpf.xml
+G:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+G:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+G:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+G:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+G:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+G:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+G:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+G:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+G:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+G:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+G:\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.csprojResolveAssemblyReference.cache
+G:\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\MainWindow.baml
+G:\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\MainWindow.g.cs
+G:\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\Window1.g.cs
+G:\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\App.g.cs
+G:\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo_MarkupCompile.cache
+G:\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo_MarkupCompile.lref
+G:\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\Window1.baml
+G:\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.g.resources
+G:\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.Properties.Resources.resources
+G:\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.csproj.GenerateResource.Cache
+E:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\SurfacePlotDemo.exe.config
+E:\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.exe
+E:\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.pdb
+E:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\SurfacePlotDemo.exe
+E:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\SurfacePlotDemo.pdb
+E:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.dll
+E:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.Wpf.dll
+E:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.DataGrid.dll
+E:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.pdb
+E:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.xml
+E:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.Wpf.pdb
+E:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.Wpf.xml
+E:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.csprojResolveAssemblyReference.cache
+E:\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\MainWindow.g.cs
+E:\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\Window1.g.cs
+E:\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\App.g.cs
+E:\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo_MarkupCompile.cache
+E:\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo_MarkupCompile.lref
+E:\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\MainWindow.baml
+E:\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\Window1.baml
+E:\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.g.resources
+E:\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.Properties.Resources.resources
+E:\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.csproj.GenerateResource.Cache
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\SurfacePlotDemo.exe.config
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.exe
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.pdb
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\SurfacePlotDemo.exe
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\SurfacePlotDemo.pdb
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.dll
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.pdb
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.xml
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.csprojResolveAssemblyReference.cache
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\Window1.g.cs
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\App.g.cs
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo_MarkupCompile.cache
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo_MarkupCompile.lref
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\MainWindow.baml
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\Window1.baml
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.g.resources
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.Properties.Resources.resources
+C:\Users\Виктор\Desktop\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.csproj.GenerateResource.Cache
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\SurfacePlotDemo.exe.config
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.exe
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.pdb
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\SurfacePlotDemo.exe
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\SurfacePlotDemo.pdb
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.dll
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.pdb
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.xml
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.csprojResolveAssemblyReference.cache
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\Window1.g.cs
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\App.g.cs
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo_MarkupCompile.cache
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo_MarkupCompile.lref
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\MainWindow.baml
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\Window1.baml
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.g.resources
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.Properties.Resources.resources
+C:\Users\Виктор\Desktop\Наука\SurfacePlotDemo\SurfacePlotDemo\obj\Debug\SurfacePlotDemo.csproj.GenerateResource.Cache

@@ -1,0 +1,195 @@
+﻿<Window x:Class="SurfacePlotDemo.MainWindow"
+        Closing="WindowClosing"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:h="clr-namespace:HelixToolkit.Wpf;assembly=HelixToolkit.Wpf" xmlns:local="clr-namespace:SurfacePlotDemo"
+        xmlns:wpfTool="clr-namespace:Xceed.Wpf.Toolkit;assembly=Xceed.Wpf.Toolkit"
+        Title="EGSO MET 2.0" Height="728" Width="1143.865">
+
+
+    <TabControl x:Name="tabcontrol1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  RenderTransformOrigin="0.481,0.52" Margin="1,0">
+        <TabItem Header="Параметры поиска" Margin="-2,0,-1,-1" Height="21" VerticalAlignment="Bottom">
+            <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Height="Auto" Width="Auto" Background="#FFE5E5E5">
+                <Grid.ColumnDefinitions>
+
+
+                    <ColumnDefinition Width="659*"/>
+                    <ColumnDefinition Width="465*"/>
+                </Grid.ColumnDefinitions>
+
+                <ProgressBar x:Name="pbar" HorizontalAlignment="Left" Height="20" Margin="0,593,0,0" VerticalAlignment="Top" Width="313" RenderTransformOrigin="0.489,-2.135" ValueChanged="pbar_ValueChanged" />
+
+                <GroupBox Header="Задание точности" HorizontalAlignment="Left" Margin="186,23,0,0" VerticalAlignment="Top" Height="65" Width="202">
+                    <ComboBox x:Name="AccuracyComboBox" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="173" SelectedIndex="0">
+                        <ComboBoxItem Content="Стандартная система"/>
+                        <ComboBoxItem Content="Экспоненциальная система"/>
+                        <ComboBoxItem Content="Разряд после запятой"/>
+                    </ComboBox>
+                </GroupBox>
+                <GroupBox Header="Исследуемая функция" HorizontalAlignment="Left" Margin="10,23,0,0" VerticalAlignment="Top" Height="65" Width="161">
+                    <ComboBox x:Name="Combo1" HorizontalAlignment="Left" Margin="4,9,-2,0" VerticalAlignment="Top" Width="145" SelectionChanged="Combo1_SelectionChanged" RenderTransformOrigin="1.242,0.545" Height="22">
+                        <ComboBoxItem Content="Rastrigin"/>
+                        <ComboBoxItem Content="Test"/>
+                        <ComboBoxItem Content="Lambda"/>
+                        <ComboBoxItem Content="Himmelblau"/>
+                        <ComboBoxItem Content="Rosenbrok"/>
+                    </ComboBox>
+                </GroupBox>
+                <GroupBox Header="Область поиска (по параметрам)" HorizontalAlignment="Left" Margin="10,156,0,0" VerticalAlignment="Top" Height="129" Width="378">
+                    <TabControl x:Name="ParamsTabControl" HorizontalAlignment="Left" Height="94" Margin="10,10,0,0" VerticalAlignment="Top" Width="338">
+                        <TabItem Header="1-ый параметр">
+                            <Grid Background="#FFE5E5E5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="9*"/>
+                                    <ColumnDefinition Width="31*"/>
+                                </Grid.ColumnDefinitions>
+                                <GroupBox Header="Нижняя граница" HorizontalAlignment="Left" Margin="26,6,0,0" VerticalAlignment="Top" Height="46" Width="111" Grid.ColumnSpan="2">
+                                    <wpfTool:DecimalUpDown x:Name="DecimalUpDown1min" HorizontalAlignment="Left" Height="19" Margin="10,0,0,0" VerticalAlignment="Top" Width="72" Maximum="1000" Minimum="-1000" DefaultValue="-4.00000" DisplayDefaultValueOnEmptyText="True" Increment="0.1"/>
+                                </GroupBox>
+                                <GroupBox Header="Верхняя граница" HorizontalAlignment="Left" Margin="99,6,0,0" VerticalAlignment="Top" Height="46" Width="113" Grid.Column="1">
+                                    <wpfTool:DecimalUpDown x:Name="DecimalUpDown1max" HorizontalAlignment="Left" Height="19" Margin="10,0,0,0" VerticalAlignment="Top" Width="72" Maximum="1000" Minimum="-1000" DefaultValue="4.00000" DisplayDefaultValueOnEmptyText="True" Increment="0.1"/>
+                                </GroupBox>
+                            </Grid>
+                        </TabItem>
+                        <TabItem Header="2-ой параметр">
+                            <Grid Background="#FFE5E5E5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="9*"/>
+                                    <ColumnDefinition Width="32*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <Grid Background="#FFE5E5E5" Grid.ColumnSpan="2">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="9*"/>
+                                        <ColumnDefinition Width="31*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <GroupBox Header="Нижняя граница" HorizontalAlignment="Left" Margin="28,6,0,0" VerticalAlignment="Top" Height="46" Width="106" Grid.ColumnSpan="2">
+                                        <wpfTool:DecimalUpDown x:Name="DecimalUpDown2min" HorizontalAlignment="Left" Height="19" Margin="10,0,0,0" VerticalAlignment="Top" Width="72" Maximum="1000" Minimum="-1000" DefaultValue="-4.00000" DisplayDefaultValueOnEmptyText="True" Increment="0.1"/>
+                                    </GroupBox>
+                                    <GroupBox Header="Верхняя граница" HorizontalAlignment="Left" Margin="105,6,0,0" VerticalAlignment="Top" Height="46" Width="113" Grid.Column="1">
+                                        <wpfTool:DecimalUpDown x:Name="DecimalUpDown2max" HorizontalAlignment="Left" Height="19" Margin="10,0,0,0" VerticalAlignment="Top" Width="72" Maximum="1000" Minimum="-1000" DefaultValue="4.00000" DisplayDefaultValueOnEmptyText="True" Increment="0.1"/>
+                                    </GroupBox>
+                                </Grid>
+                            </Grid>
+                        </TabItem>
+                    </TabControl>
+                </GroupBox>
+                <Button x:Name="Button1" Content="Поиск" HorizontalAlignment="Left" Margin="318,617,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"  Height="22"/>
+
+                <GroupBox Header="Способ отбора особей" HorizontalAlignment="Left" Margin="7,325,0,0" VerticalAlignment="Top" Height="57" Width="185">
+                    <ComboBox x:Name="SelectionComboBox" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="139" SelectedIndex="1">
+                        <ComboBoxItem Content="Случайный"/>
+                        <ComboBoxItem Content="Рулеточный"/>
+                    </ComboBox>
+                </GroupBox>
+                <GroupBox Header="Способ формирования пар" HorizontalAlignment="Left" Margin="211,325,0,0" VerticalAlignment="Top" Height="57" Width="182">
+                    <ComboBox x:Name="ParentsFormComboBox" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="143" SelectedIndex="1">
+                        <ComboBoxItem Content="Лучший с худшим"/>
+                        <ComboBoxItem Content="Случайный"/>
+                        <ComboBoxItem Content="Лучший с лучшим"/>
+                    </ComboBox>
+                </GroupBox>
+                <GroupBox Header="Вариант останова" HorizontalAlignment="Left" Margin="10,508,0,0" VerticalAlignment="Top" Height="58" Width="182">
+                    <ComboBox x:Name="OstanovComboBox" HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top" Width="166" SelectedIndex="0" >
+                        <ComboBoxItem Content="Количество поколений"/>
+                        <ComboBoxItem Content="Не меняется результат"/>
+                    </ComboBox>
+                </GroupBox>
+                <GroupBox Header="Тип мутации" HorizontalAlignment="Left" Margin="7,447,0,0" VerticalAlignment="Top" Height="56" Width="142">
+                    <ComboBox x:Name="MutationComboBox" HorizontalAlignment="Left" Margin="4,3,0,0" VerticalAlignment="Top" Width="120" SelectedIndex="0">
+                        <ComboBoxItem Content="Одноточечная"/>
+                        <ComboBoxItem Content="Двуточечная"/>
+                    </ComboBox>
+                </GroupBox>
+                <GroupBox Header="Тип кроссинговера" HorizontalAlignment="Left" Margin="7,386,0,0" VerticalAlignment="Top" Height="56" Width="142">
+                    <ComboBox x:Name="CrossingoverComboBox" HorizontalAlignment="Left" Margin="4,8,0,0" VerticalAlignment="Top" Width="120" SelectedIndex="0">
+                        <ComboBoxItem Content="Одноточечный"/>
+                        <ComboBoxItem Content="Двуточечный"/>
+                    </ComboBox>
+                </GroupBox>
+                <wpfTool:DecimalUpDown x:Name="GenerationDecimalUpDown" HorizontalAlignment="Left" Margin="337,398,0,0" VerticalAlignment="Top" Height="19" Width="67" Maximum="1000000" Minimum="0" DefaultValue="100" DisplayDefaultValueOnEmptyText="True"/>
+                <wpfTool:DecimalUpDown x:Name="PopulationDecimalUpDown" HorizontalAlignment="Left" Margin="337,422,0,0" VerticalAlignment="Top" Width="67" DefaultValue="1000" DisplayDefaultValueOnEmptyText="True" Maximum="1000000" Minimum="0"/>
+                <wpfTool:DecimalUpDown x:Name="CrossingAccuracyDecimalUpDown" HorizontalAlignment="Left" Margin="337,446,0,0" VerticalAlignment="Top" DefaultValue="80" DisplayDefaultValueOnEmptyText="True" Maximum="100" Minimum="0" Width="67"/>
+                <wpfTool:DecimalUpDown x:Name="MutationAccuracyDecimalUpDown" HorizontalAlignment="Left" Margin="337,471,0,0" VerticalAlignment="Top" DefaultValue="15" DisplayDefaultValueOnEmptyText="True" Maximum="100" Minimum="0" Width="67"/>
+
+
+                <h:HelixViewport3D x:Name="ViewPort" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" ZoomExtentsWhenLoaded="True" TitleBackground="Black" Background="#FF746868"  Margin="409,0,0,0" ShowCameraInfo="True" RenderTransformOrigin="0,0" ShowCameraTarget="False" Grid.ColumnSpan="2">
+
+                    <h:HelixViewport3D.BorderBrush>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="Black"/>
+                            <GradientStop Color="#FFA26A6A" Offset="1"/>
+                        </LinearGradientBrush>
+                    </h:HelixViewport3D.BorderBrush>
+                    <h:HelixViewport3D.Camera>
+                        <!-- HelixViewport3D.ZoomExtentsWhenLoaded will figure out the position of the Camera -->
+                        <PerspectiveCamera x:Name="Camera"  LookDirection="0,0,635"  UpDirection="0,-1,0" Position="0,0,-635" FieldOfView="1"/>
+                    </h:HelixViewport3D.Camera>
+                    <!--<h:HelixViewport3D.LayoutTransform>
+                <ScaleTransform ScaleX="2" ScaleY="0.1" CenterX="0" CenterY="0"/>
+            </h:HelixViewport3D.LayoutTransform>-->
+                    <!-- Lights -->
+                    <!--<ModelVisual3D Content="{Binding Lights}"/>-->
+                    <ModelVisual3D Content="{Binding Lights}">
+                        <ModelVisual3D.Transform>
+                            <ScaleTransform3D ScaleX="4" ScaleY="0.5" ScaleZ="1" CenterX="0" CenterY="0" CenterZ="0"/>
+                        </ModelVisual3D.Transform>
+                    </ModelVisual3D>
+                    <!-- The plot visual (surface, axes and labels) -->
+                    <local:SurfacePlotVisual3D Points="{Binding Data}" ColorValues="{Binding ColorValues}" SurfaceBrush="{Binding SurfaceBrush}"/>
+
+                </h:HelixViewport3D>
+                <Label Content="Количество поколений -&gt;" HorizontalAlignment="Left" Margin="154,395,0,0" VerticalAlignment="Top"/>
+                <Label Content="Размер популяции -&gt;" HorizontalAlignment="Left" Margin="154,416,0,0" VerticalAlignment="Top"/>
+                <Label Content="Вероятность кроссинговера -&gt;" HorizontalAlignment="Left" Margin="154,442,0,0" VerticalAlignment="Top"/>
+                <Label Content="Вероятность мутации -&gt;" HorizontalAlignment="Left" Margin="154,468,0,0" VerticalAlignment="Top"/>
+                <ProgressBar x:Name="pbar_cluster" HorizontalAlignment="Left" Height="20" Margin="0,633,0,0" VerticalAlignment="Top" Width="313" RenderTransformOrigin="0.489,-2.135" />
+                <Label Content="ЭГА" HorizontalAlignment="Left" Margin="0,569,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.516,0.269" Height="24"/>
+                <Label Content="Кластеризация" HorizontalAlignment="Left" Margin="0,613,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.516,0.269" Height="25" Width="96"/>
+                <GroupBox Header="Искомые экстремумы" HorizontalAlignment="Left" Margin="186,95,0,0" VerticalAlignment="Top" Height="56" Width="202">
+                    <ComboBox x:Name="ExtremsVariantComboBox" HorizontalAlignment="Left" Margin="0,8,-2,0" VerticalAlignment="Top" Width="192" SelectedIndex="0">
+                        <ComboBoxItem Content="Минимумы"/>
+                        <ComboBoxItem Content="Максимумы"/>
+                        <ComboBoxItem Content="Минимумы и максимумы"/>
+                    </ComboBox>
+                </GroupBox>
+                <CheckBox Content="Использовать технологию&#xD;&#xA;локализованного поиска" HorizontalAlignment="Left" Margin="222,527,0,0" VerticalAlignment="Top" Width="182" Height="37" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked"/>
+                <GroupBox Header="Способ отбора особей" HorizontalAlignment="Left" Margin="7,325,0,0" VerticalAlignment="Top" Height="57" Width="185"/>
+
+            </Grid>
+        </TabItem>
+        <TabItem x:Name="LocalizeFinding" Header="Параметры локального поиска" Margin="-2,0,-1,0">
+            <Grid Margin="10,10,0,2">
+                <wpfTool:DecimalUpDown x:Name="BorderDecimalUpDown" HorizontalAlignment="Left" Margin="45,10,0,0" VerticalAlignment="Top" Width="96" DefaultValue="0.5" DisplayDefaultValueOnEmptyText="True" Increment="0.00001" Maximum="1" Minimum="0"/>
+                <Label Content="Отступ от лучшего значения (параметр границ поиска)" HorizontalAlignment="Left" Margin="169,7,0,0" VerticalAlignment="Top" Width="324"/>
+                <wpfTool:DecimalUpDown x:Name="LocalizeGenerationDecimalUpDown" HorizontalAlignment="Left" Margin="45,44,0,0" VerticalAlignment="Top" Width="96" DefaultValue="10" DisplayDefaultValueOnEmptyText="True" Maximum="1000" Minimum="0"/>
+                <Label Content="Количество поколений локального поиска " HorizontalAlignment="Left" Margin="169,38,0,0" VerticalAlignment="Top"/>
+                <wpfTool:DecimalUpDown x:Name="LocalizePopulationDecimalUpDown" HorizontalAlignment="Left" Margin="45,78,0,0" VerticalAlignment="Top" Width="96" DefaultValue="1000" DisplayDefaultValueOnEmptyText="True" Maximum="10000" Minimum="0" ForceCursor="True"/>
+                <Label Content="Количество особей (на поколение) в локальном поиске " HorizontalAlignment="Left" Margin="169,72,0,0" VerticalAlignment="Top"/>
+                <wpfTool:DecimalUpDown x:Name="LocalizePopulationCrossingAccuracyDecimalUpDown" HorizontalAlignment="Left" Margin="45,113,0,0" VerticalAlignment="Top" Width="96" DefaultValue="80" DisplayDefaultValueOnEmptyText="True" Maximum="100" Minimum="0" ForceCursor="True"/>
+                <wpfTool:DecimalUpDown x:Name="LocalizeMutationAccuracyDecimalUpDown" HorizontalAlignment="Left" Margin="45,148,0,0" VerticalAlignment="Top" Width="96" DefaultValue="15" DisplayDefaultValueOnEmptyText="True" Maximum="100" Minimum="0" ForceCursor="True"/>
+                <Label Content="Вероятность кроссинговера в локальном поиске " HorizontalAlignment="Left" Margin="169,107,0,0" VerticalAlignment="Top"/>
+                <Label Content="Вероятность мутации в локальном поиске " HorizontalAlignment="Left" Margin="169,142,0,0" VerticalAlignment="Top"/>
+                <Button x:Name="ReLocalize" Content="Повторная локализация" HorizontalAlignment="Left" Margin="45,197,0,0" VerticalAlignment="Top" Width="150" Click="ReLocalize_Click" />
+
+            </Grid>
+        </TabItem>
+        <TabItem x:Name="SearchResults" Header="Результаты глобального поиска" Margin="-2,0,-1,0">
+            <DataGrid x:Name="Gd"></DataGrid>
+
+        </TabItem>
+
+        <TabItem x:Name="LocalizeSearchResults" Header="Результаты локального поиска" Margin="-2,0,-1,0">
+            <TabControl x:Name="tabcontrol2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  RenderTransformOrigin="0.481,0.52" Margin="1,0">
+                <TabItem x:Name="LocalizeSearchResultsAll" Header="Уточнение #1" Margin="-2,0,-1,0">
+                    <DataGrid x:Name="LocalizeGrid"></DataGrid>
+                </TabItem>
+            </TabControl>
+        </TabItem>
+
+    </TabControl>
+
+
+
+
+</Window>
